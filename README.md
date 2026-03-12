@@ -11,3 +11,8 @@
 *  Desenvolvimento Fullstack
 *  Back-End e Front-End
 *  Mobile
+## Disciplinas vistas até agora
+### Período Atual: 1;
+* Projeto Web-Site Estático
+* Lógica de Programação
+  
